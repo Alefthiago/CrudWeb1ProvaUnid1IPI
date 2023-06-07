@@ -1,4 +1,5 @@
 <?php
+    // testando
     $dadosValidos = true;
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $email = $_POST["email"];
